@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,24&height=250&section=header&text=Hi%20there,%20I'm%20a%20Dayoung20Lee%20%F0%9F%94%AC&fontSize=35&fontAlignY=40&desc=Data%20Science%20|%20AI%20|%20Educational%20Technology&descAlignY=60&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,24&height=250&section=header&text=Hi%20there,%20I'm%20a%20Dayoung%20Lee%20%F0%9F%94%AC&fontSize=35&fontAlignY=40&desc=Data%20Science%20|%20AI%20|%20Educational%20Technology&descAlignY=60&animation=twinkling)
 
 </div>
 
