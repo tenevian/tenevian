@@ -4,7 +4,7 @@
 
 </div>
 
-## 👋 About Me
+## About Me
 
 I'm a high school researcher passionate about leveraging technology to address global challenges. My work focuses on:
 
@@ -14,14 +14,14 @@ I'm a high school researcher passionate about leveraging technology to address g
 
 > Currently investigating digital learning access impacts on math achievement across nations using APIs, multilevel data structures, and OpenAI.
 
-## 🔬 Research Focus
+## Research Focus
 
 - 📚 Educational Equity & Digital Divide Analysis
 - 🌍 International Development & Trade Policy
 - 📈 Algorithmic Policy Modeling
 - ⚡ Predictive Models & Automation Pipelines
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
@@ -45,7 +45,7 @@ I'm a high school researcher passionate about leveraging technology to address g
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-## 🎯 Current Focus
+## Current Focus
 
 - 📚 Diving deep into **Causal Inference** & **Reinforcement Learning**
 - 🔧 Developing real-time policy dashboards with **Streamlit**
