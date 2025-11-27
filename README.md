@@ -6,8 +6,6 @@ I'm a high school researcher passionate about leveraging technology to address g
 - 🤖 **AI/ML** applications in policy research
 - 🌐 **Automation** for global development insights
 
-> Currently investigating digital learning access impacts on math achievement across nations using APIs, multilevel data structures, and OpenAI.
-
 ## Research Focus
 
 - 📚 Educational Equity & Digital Divide Analysis
@@ -39,11 +37,6 @@ I'm a high school researcher passionate about leveraging technology to address g
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-## Current Focus
-
-- 📚 Diving deep into **Causal Inference** & **Reinforcement Learning**
-- 🔧 Developing real-time policy dashboards with **Streamlit**
-- 🤝 Seeking collaborations in **AI for Social Good**
 
 <div align="center">
   
