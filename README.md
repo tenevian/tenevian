@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a high school researcher passionate about leveraging technology to address global challenges. My work focuses on:
+My work focuses on:
 
 - 📊 **Data Science** for educational equity analysis
 - 🤖 **AI/ML** applications in policy research
